@@ -1,0 +1,15 @@
+{
+  "name": "node-postgress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "afzal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
